@@ -6,7 +6,9 @@
 
 ## 📌 Project Overview
 
-This project focuses on exploring Netflix's content catalog in **India** to identify trends in genre, content type, release years, and content updates over time. The goal was to practice data wrangling and visualization using real-world entertainment data.
+This project focuses on exploring Netflix's content catalog in **India** to identify trends in genre, content type, release years, and content updates over time. The goal was to practice data wrangling and visualization using real-world entertainment data. But in this project, i remake the dashboard using the worldwide data.
+
+🔗Dashboard: https://public.tableau.com/app/profile/aura.isni/viz/shared/75WP3GTZT
 
 ---
 
